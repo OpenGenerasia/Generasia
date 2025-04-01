@@ -28,7 +28,7 @@ Through these four components, Generasia achieves the entire workflow from AI mu
 All compositions in Generasia were created between May 2024 and January 2025 using Anthropic's Claude Sonnet 3.5 model - meaning every single note was composed by this model.
 
 ### 2. Transmission
-To transmit data to Ableton Live, we referenced the YouTube video ["How to Connect ChatGPT to Ableton for Automatic AI Music Making"](https://youtube.com) and created complete program code (`midi_controller_v.4.py` and `retinfo`) using AbletonOSC as the communication tool. Special thanks to Burned Guitarist for the original video. (Note: We're not professional programmers, so the code might not be optimal.)
+To transmit data to Ableton Live, we referenced the YouTube video ["How to Connect ChatGPT to Ableton for Automatic AI Music Making"](https://www.youtube.com/watch?v=-sKXN4NrFuY&ab_channel=BurnedGuitarist) and created complete program code (`midi_controller_v.4.py` and `retinfo`) using AbletonOSC as the communication tool. Special thanks to Burned Guitarist for the original video. (Note: We're not professional programmers, so the code might not be optimal.)
 
 ### 3. Performance & Playback
 You can use any software instrument to play the notes and listen through stereo speakers or headphones. In Generasia, we used:
